@@ -1,0 +1,115 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+CUI_UJ2-MIBH-4-SMT-TR-67
+$EndINDEX
+$MODULE CUI_UJ2-MIBH-4-SMT-TR-67
+Po 0 0 0 15 00000000 00000000 ~~
+Li CUI_UJ2-MIBH-4-SMT-TR-67
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -2.58198 -5.60735 0.480218 0.480218 0 0.05 N V 21 "CUI_UJ2-MIBH-4-SMT-TR-67"
+T1 -2.07754 5.79949 0.480356 0.480356 0 0.05 N V 21 "VAL**"
+DS 3.9 -2.3 3.9 -2.8 0 28
+DA 4.2 -2.8 4.5 -2.8 -1800 0 28
+DS 4.5 -2.8 4.5 -2.3 0 28
+DA 4.2 -2.3 3.9 -2.3 -1800 0 28
+DS 3.9 2.8 3.9 2.3 0 28
+DA 4.2 2.3 4.5 2.3 -1800 0 28
+DS 4.5 2.3 4.5 2.8 0 28
+DA 4.2 2.8 3.9 2.8 -1800 0 28
+DS -1 5 -1 4.25 0.127 27
+DS -1 4.25 -1 -4.25 0.127 27
+DS -1 -4.25 -1 -5 0.127 27
+DS -1 -5 3.5 -5 0.127 27
+DS 3.5 -5 3.5 5 0.127 27
+DS 3.5 5 -1 5 0.127 27
+DS -1 -4.25 -3 -4.25 0.127 27
+DS -3 -4.25 -3 4.25 0.127 27
+DS -3 4.25 -1 4.25 0.127 27
+DS 0 -5 3.5 -5 0.127 21
+DS 3.5 -5 3.5 -1.8 0.127 21
+DS 3.5 1.8 3.5 5 0.127 21
+DS 3.5 5 0 5 0.127 21
+DS -3.25 5.25 -3.25 -5.25 0.05 26
+DS -3.25 -5.25 5.15 -5.25 0.05 26
+DS 5.15 -5.25 5.15 5.25 0.05 26
+DS 5.15 5.25 -3.25 5.25 0.05 26
+DC 5.5 -1.3 5.6 -1.3 0.2 21
+DC 5.5 -1.3 5.6 -1.3 0.2 27
+DS 0 5.1 0 -7.4 0.127 27
+T2 -0.100004 -5.500190 1 1 0 .05 N V 51 "PCB~EDGE"
+$PAD
+Sh "S1" O 1.8 0.9 0 0 900
+Dr 0.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 4.2 -2.55
+$EndPAD
+$PAD
+Sh "Hole" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00E0FFFF
+Po 2 -2.5
+$EndPAD
+$PAD
+Sh "Hole" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00E0FFFF
+Po 2 2.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 0.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.25 -1.3
+$EndPAD
+$PAD
+Sh "2" R 1.3 0.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.25 -0.65
+$EndPAD
+$PAD
+Sh "3" R 1.3 0.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.25 0
+$EndPAD
+$PAD
+Sh "4" R 1.3 0.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.25 0.65
+$EndPAD
+$PAD
+Sh "5" R 1.3 0.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.25 1.3
+$EndPAD
+$PAD
+Sh "S2" O 1.8 0.9 0 0 900
+Dr 0.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 4.2 2.55
+$EndPAD
+$EndMODULE CUI_UJ2-MIBH-4-SMT-TR-67
