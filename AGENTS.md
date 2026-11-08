@@ -12,6 +12,11 @@ or cached copies, remain under their own terms. Manufacturer CAD,
 datasheets and other third-party material are not relicensed, and no
 permission to use otherwise unlicensed third-party material is implied.
 
+`DisplayModules.pretty/OLED_0.96in_128x64_MODULE.kicad_mod` is explicitly
+excluded from the CERN grant: its import credits @moldavia, and the
+upstream license has not been established. See NOTICE for provenance.
+Commit authorship alone does not establish ownership of imported designs.
+
 1. **Attribution and license compliance.** Do not remove attribution or
    license notices, misrepresent provenance, or license-wash this code;
    redistribution and reuse must comply with the applicable license.

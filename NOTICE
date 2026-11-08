@@ -1,4 +1,4 @@
-Copyright (c) 2019-2020 KhazAkar (Damian Zareba)
+Original contributions: Copyright (c) 2019-2020 KhazAkar (Damian Zareba)
 
 Original hardware design contributions are made available under the
 CERN Open Hardware Licence Version 2 - Strongly Reciprocal.
@@ -11,3 +11,13 @@ KiCad symbols, footprints and library definitions, including embedded
 or cached copies, remain under their own terms. Manufacturer CAD,
 datasheets and other third-party material are not relicensed, and no
 permission to use otherwise unlicensed third-party material is implied.
+
+Explicit exclusion with third-party provenance:
+DisplayModules.pretty/OLED_0.96in_128x64_MODULE.kicad_mod
+Its introduction in commit 6976878 credits @moldavia:
+"Here comes OLED module boi, straight from @moldavia!"
+https://github.com/moldavia
+No upstream license has been established for this imported footprint.
+It is NOT covered by the CERN-OHL-S-2.0 grant above. Existing third-party
+rights and notices are unchanged; this notice grants no new permissions
+for that file. The copyright line above applies only to original work.
